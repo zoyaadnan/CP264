@@ -1,0 +1,41 @@
+/**
+ * -------------------------------------
+ * @file  testing.txt
+ * Lab 3 Test Results File
+ * -------------------------------------
+ * @author name, id, email
+ *
+ * @version 2025-01-06
+ *
+ * -------------------------------------
+ */
+------------------
+Task 1
+
+
+
+------------------
+Task 2
+
+Enter three comma-separated integers: The integers were not properly entered. Please try again.
+(2,3,5)
+The integers were not properly entered. Please try again.
+(2, 3, 5)
+The integers were not properly entered. Please try again.
+1,2,3
+Sum: 6
+
+
+---------------
+Task 3
+
+Value for index 0
+1
+Value for index 1
+2
+Value for index 2
+3
+Value for index 3
+4
+{1, 2, 3, 4}
+
